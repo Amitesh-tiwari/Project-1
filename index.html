@@ -26,6 +26,14 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Poly:wght@400&display=swap"
     />
+    <script>
+      fetch('data.json')
+        .then(response => response.json())
+        .then(data => {
+          console.log(data); // Use the JSON data here
+        })
+        .catch(error => console.error('Error loading JSON data:', error));
+    </script>
   </head>
   <body>
     <div class="expanded-journey-board">
