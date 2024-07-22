@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Project-1",
+    "id": "669e5acf51f566c65e9ba8ca",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Pascal Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\amite\\OneDrive\\Desktop\\Project-1\\src\\components",
+    "screensPath": "c:\\Users\\amite\\OneDrive\\Desktop\\Project-1\\src\\pages"
+  }
+}

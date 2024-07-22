@@ -1,0 +1,11 @@
+.new-dt {
+  width: 1296px;
+  position: relative;
+  font-size: 64px;
+  letter-spacing: 0.02em;
+  font-family: var(--font-font-awesome-5-free);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  height: 84px;
+}
